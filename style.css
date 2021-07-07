@@ -236,6 +236,20 @@
     .submitgit:hover{
         color:rgb(19, 34, 7);
     }
+    .footer-section{
+        text-align: center;
+        background-color: rgb(6, 15, 0);
+        color: rgb(237, 241, 197);
+        padding: 10px;
+    }
+    #i{
+        padding: 15px;
+        
+       
+    }
+    #i:hover{
+        color: rgb(12, 122, 224);
+    }
    
     
     
